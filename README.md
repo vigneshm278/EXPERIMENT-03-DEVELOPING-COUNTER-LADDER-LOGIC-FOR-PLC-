@@ -1,8 +1,8 @@
 # EXPERIMENT-03: DEVELOPING COUNTER LADDER LOGIC FOR PLC
 
-### Name: SWAMINATHAN.V
-### Register Number: 212223110057
-### Department: CSE IOT
+### Name: VIGNESH M
+### Register Number: 212223240176
+### Department: AIML
 ### Year: 2ND
 
 ### Aim
